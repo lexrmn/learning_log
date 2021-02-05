@@ -33,7 +33,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
 	# My apps
 	'learning_logs',
-	# Default apps
+	# Default appspython manage.py migrate
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
